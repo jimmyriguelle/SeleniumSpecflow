@@ -21,5 +21,5 @@ System.TypeLoadException: Method 'Initialize' in type 'Baseclass.Contrib.SpecFlo
 
 
 Command: c:\users\jiriguel\appdata\local\microsoft\visualstudio\15.0_834915e8\extensions\2iekd0hv.v2q\TechTalk.SpecFlow.VisualStudio.CodeBehindGenerator.exe
-Parameters: GenerateTestFile --featurefile C:\Users\JIRIGUEL\AppData\Local\Temp\1\tmpB3FA.tmp --outputdirectory C:\Users\JIRIGUEL\AppData\Local\Temp\1 --projectsettingsfile C:\Users\JIRIGUEL\AppData\Local\Temp\1\tmpB3F9.tmp
+Parameters: GenerateTestFile --featurefile C:\Users\JIRIGUEL\AppData\Local\Temp\1\tmpA5FB.tmp --outputdirectory C:\Users\JIRIGUEL\AppData\Local\Temp\1 --projectsettingsfile C:\Users\JIRIGUEL\AppData\Local\Temp\1\tmpA5EA.tmp
 Working Directory: C:\Users\JIRIGUEL\source\repos\SeleniumSpecflow\packages\SpecFlow.2.4.1\tools
